@@ -1,0 +1,23 @@
+# This is the list that populates the team page. Add yourself to the
+# appropriate category.
+#
+# Your profile picture will be loaded from your GitHub account automatically.
+# Required fields: name, role, affiliation
+
+# List of current organiser members
+current:
+  - name: Benjamin Mary
+    role: Organiser
+    affiliation: University of Padua, IT
+    pronouns: he/him
+    github: BenjMy
+    email: benjamin.mary@unipd.it
+    orcid: 0000-0001-7199-2885
+    researchgate: https://www.researchgate.net/profile/Benjamin-Mary-2
+
+
+collaborator:
+
+
+
+    
