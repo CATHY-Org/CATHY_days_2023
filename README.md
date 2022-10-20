@@ -2,7 +2,7 @@
 
 ## Website
 
-In progress
+In progress (scheduled mid-november)
 
 ## Roadmap
 
