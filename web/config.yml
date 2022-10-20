@@ -1,9 +1,9 @@
 # Use YAML for configuration since it allows comments like this
-site_name: 2nd Agrogeophysics seminar
-description: 2ndAgrogeophysics seminar website
+site_name: CATHY days 2023
+description: CATHY days 2023 website
 author: Benjamin Mary
 language: en
-repository: agrogeophy/2nd_agrogeophysics_seminar
+repository: BenjMy/CATHY_days_2023
 favicon: images/Garre_drawing1.png
 logo: images/Garre_drawing2.png
 menu:
@@ -14,6 +14,6 @@ ignore:
   - README.md
   - config-alternative.json
   - Makefile
-keywords: 'agrogeophysics, hydrogeophysics, ERT, EMI, GPR, seismic, NMR, applied geophysics, remote sensing, open-source'
+keywords: 'Catchment Hydrology'
 language: en
 
