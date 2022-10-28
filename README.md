@@ -19,6 +19,7 @@ Roadmap for the organisation of the 2nd agrogeophysics seminar
     - B. Mary
     - M. Camporese 
     - C. Paniconi
+    - M. Putti
 
 ## Ideas 
 
