@@ -8,10 +8,10 @@ In progress (scheduled mid-november)
 
 Roadmap for the organisation of the 2nd agrogeophysics seminar
 
-- contributors: B. Mary, M. Camporese, C. Paniconi, 
-- location: 
+- contributors: B. Mary, M. Camporese, C. Paniconi, M. Putti
+- location: Padua (IT)
 - funding? 
-- possible date: 
+- possible date: the week of the May 29th - June 2nd.
 
 ## Board
 
