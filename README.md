@@ -25,6 +25,7 @@ Roadmap for the organisation of the 2nd agrogeophysics seminar
 ## To-do
 
 - [x] Update the website (Logo,...)
+- [ ] https://www.eventbrite.com/
 - [ ] Prepare a **preregistration form** (helping to define the final schedule)
 - [ ] drafting the seminar outline/objectives - by mid October
 - [ ]  advertisement - by November
