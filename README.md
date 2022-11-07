@@ -8,10 +8,10 @@ In progress (scheduled mid-november)
 
 Roadmap for the organisation of the 2nd agrogeophysics seminar
 
-- contributors: B. Mary, M. Camporese, C. Paniconi, 
-- location: 
+- contributors: B. Mary, M. Camporese, C. Paniconi, M. Putti
+- location: CENTRE FOR STUDIES ON ALPINE ENVIRONMENT in San Vito di Cador
+- Date: **May 31st and June 1st, 2023**
 - funding? 
-- possible date: 
 
 ## Board
 
@@ -19,14 +19,18 @@ Roadmap for the organisation of the 2nd agrogeophysics seminar
     - B. Mary
     - M. Camporese 
     - C. Paniconi
+    - M. Putti
 
 ## Ideas 
 
 ## To-do
 
-- [x] Update the website (Logo,...)
+- [ ] Update the website (Logo,...)
+- [ ] Write invitation email
+- [ ] ask for funding? 
+- [ ] https://www.eventbrite.com/
 - [ ] Prepare a **preregistration form** (helping to define the final schedule)
-- [ ] drafting the seminar outline/objectives - by mid October
-- [ ]  advertisement - by November
-
+- [ ] drafting the seminar outline/objectives - by end of October
+- [ ] advertisement - by November
+- [ ] Twitter - Mastodon - Slack advertisment
    
