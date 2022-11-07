@@ -32,5 +32,5 @@ Roadmap for the organisation of the 2nd agrogeophysics seminar
 - [ ] Prepare a **preregistration form** (helping to define the final schedule)
 - [ ] drafting the seminar outline/objectives - by end of October
 - [ ] advertisement - by November
-
+- [ ] Twitter - Mastodon - Slack advertisment
    
