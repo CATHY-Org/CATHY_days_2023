@@ -18,7 +18,8 @@ template: base.html
 
 
 <p class="lead">
-CATHY is 
+We are thrilled to announce that in 2023 we will renew the tradition and organise the CATchment HYdrology (CATHY) days!
+
 </p>
 
 </div>
@@ -27,41 +28,50 @@ CATHY is
 </div>
 </div>
 
-
-## Location*
-
-
-Want to join? [Register now (eventbright link or google form)](eventbright link or google form)
-
-
-
-<hr>
-
 ## About this event
-
 
 <div class="callout callout-success">
 
-<a class="btn btn-primary" href="/2nd_agrogeophysics_seminar/program" role="button">Read more</a>
+This informal meeting will bring together researchers interested in or working on topics connected to **integrated surface-subsurface hydrological modeling**. 
 
 </div>
+
 <hr>
 
-## Key dates and registration
+## Key dates
 
 
 * **Registration** 
 	- deadline: Date
 
-* 🛬 **Arrival + conference dinner:** Date
+* 📅 **Seminar days:** May 31st and June 1st, 2023
 
-* 📅 **Seminar day:** Date
+<hr>
+
+## Registration*
+
+
+Want to join? Register now!
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScyDlY_pI9nebjsEMidjBKBpsnzTPT81SnPWstx3w0kQHSFDg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
+
+
+
+
+<!--
+<div class="callout callout-success">
+
+<a class="btn btn-primary" href="/CATHY_days_2023/program" role="button">Read more</a>
+
+</div>
+
+-->
+
+
 
 <hr>
 
 ## Venue: Location of the venue (and link)
-
-
 
 image of the venue room
 
@@ -75,6 +85,7 @@ iframe google map
 
 
 <hr>
+
 
 
 ## Contact

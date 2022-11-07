@@ -5,11 +5,10 @@ template: base.html
 
 {%- import "macros.html" as macros %}
 
-{{ macros.make_people_list(page.current) }}
+
+{{ macros.make_people_list(page.people.current) }}
 
 <hr class="mb-5">
 
-## Collaborators
-
-{{ macros.make_people_list(page.collaborators) }}
-
+# Markdown
+Here is a little bit of markdown
