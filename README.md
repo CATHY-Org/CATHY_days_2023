@@ -9,9 +9,9 @@ In progress (scheduled mid-november)
 Roadmap for the organisation of the 2nd agrogeophysics seminar
 
 - contributors: B. Mary, M. Camporese, C. Paniconi, M. Putti
-- location: Padua (IT)
+- location: CENTRE FOR STUDIES ON ALPINE ENVIRONMENT in San Vito di Cador
+- Date: **May 31st and June 1st, 2023**
 - funding? 
-- possible date: the week of the May 29th - June 2nd.
 
 ## Board
 
