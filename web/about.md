@@ -20,7 +20,7 @@ The meeting will be focused around a number of full-length talks (30-45 min) plu
 * coupled Surface and Subsurface Hydrology modelling
 * Transport modelling for contaminants
 * Data Assimilation 
-* and Catchment Hydrology at large.
+* and Catchment Hydrology at large
 
 
 
