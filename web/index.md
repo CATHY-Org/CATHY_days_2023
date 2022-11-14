@@ -18,21 +18,27 @@ template: base.html
 
 
 <p class="lead">
-We are thrilled to announce that in 2023 we will renew the tradition and organise the CATchment HYdrology (CATHY) days!
+We are thrilled to announce that in 2023 we will renew the tradition and organise the <b>CATchment HYdrology (CATHY) days </b>!
 
 </p>
 
 </div>
 <div class="col-md-3 col-sm-4 col-4">
   <img alt="Seminar logo" src="{{ config.logo }}">
+  <small> <i> [1] </i> </small>
 </div>
 </div>
+
+
 
 ## About this event
 
 <div class="callout callout-success">
 
 This informal meeting will bring together researchers interested in or working on topics connected to **integrated surface-subsurface hydrological modeling**. 
+
+The meeting will be focused on a number of talks that will address current progress and challenges in coupled surface–subsurface hydrological modeling, solute transport modeling, data assimilation, and catchment hydrology at large. Plus, we’ll make sure plenty of time is left for open discussion.
+
 
 </div>
 
@@ -41,47 +47,47 @@ This informal meeting will bring together researchers interested in or working o
 ## Key dates
 
 
-* **Registration** 
-	- deadline: Date
-
+* **Registration deadline** : December 23rd, 2022
 * 📅 **Seminar days:** May 31st and June 1st, 2023
 
 <hr>
 
 ## Registration*
 
+<div class="callout callout-success">
 
-Want to join? Register now!
+There is <span style="color:red;">no registration fee</span> for the workshop; however, the number of **in-person participants is limited to 40**, due to the maximum capacity of the venue. Therefore, respondents will be assigned a spot on a first-come-first-serve basis. Additional respondents will be provided with a zoom link for online participation.
+
+</div>
+
+Want to join? [Register now](https://docs.google.com/forms/d/e/1FAIpQLScyDlY_pI9nebjsEMidjBKBpsnzTPT81SnPWstx3w0kQHSFDg/viewform?embedded=true)!
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScyDlY_pI9nebjsEMidjBKBpsnzTPT81SnPWstx3w0kQHSFDg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
 
 
 
 
-<!--
-<div class="callout callout-success">
 
-<a class="btn btn-primary" href="/CATHY_days_2023/program" role="button">Read more</a>
 
-</div>
-
--->
 
 
 
 <hr>
 
-## Venue: Location of the venue (and link)
-
-image of the venue room
+## Venue: San Vito di Cadore (IT)
 
 <div class="callout callout-success">
 
-### How to get there
-
-iframe google map
-
+The event will be held at the [CENTER FOR STUDIES ON ALPINE ENVIRONMENT](https://intra.tesaf.unipd.it/sanvito/english.asp) in San Vito di Cadore (IT)
 </div>
+
+
+[How to arrive at the Centre for Studies in Alpine Environment](https://intra.tesaf.unipd.it/sanvito/doc/LPT.pdf)
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10995.382777225355!2d12.2138519!3d46.4517544!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf6f600dc10482619!2sCentro%20Studi%20per%20l&#39;Ambiente%20Alpino%20-%20Universit%C3%A0%20Degli%20Studi%20Di%20Padova!5e0!3m2!1sfr!2ses!4v1668416547342!5m2!1sfr!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
 
 
 <hr>
@@ -121,6 +127,8 @@ The seminar is supported by
 </div>
 
 <hr>
+
+<small> <i> [1] Camporese et al. 2019 [10.1029/2019WR025726, fig. 6] </i> </small>
 
 
 

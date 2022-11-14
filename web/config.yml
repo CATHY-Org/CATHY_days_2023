@@ -3,9 +3,9 @@ site_name: CATHY days 2023
 description: CATHY days 2023 website
 author: Benjamin Mary
 language: en
-repository: BenjMy/CATHY_days_2023
+repository: CATHY-Org/CATHY_days_2023
 favicon: images/sphx_glr_pyCATHY_weilletal_thumb.png
-logo: images/sphx_glr_pyCATHY_weilletal_thumb.png
+logo: images/Camporese_WRR_10.1029_2019WR025726.png
 menu:
   - [Home, index]  
   - [Committee, committees]
