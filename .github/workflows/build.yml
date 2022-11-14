@@ -28,7 +28,7 @@ jobs:
           make
 
       - name: Set the CNAME file for our custom domain
-        run: echo "BenjMy.github.io" > web/_build/CNAME
+        run: echo "CATHY-Org.github.io" > web/_build/CNAME
 
       # Store the docs as a build artifact so we can deploy it later
       - name: Upload HTML documentation as an artifact
