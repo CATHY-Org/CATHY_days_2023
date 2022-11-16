@@ -121,7 +121,7 @@ img {
 The seminar is supported by
 <p>
 <ul>
-  <li> Sponsor 1 </li>
+  <li> Centro Internacional de Hidrologia Dino Tonini </li>
 </ul>    
 </p>
 </div>
@@ -129,6 +129,7 @@ The seminar is supported by
 <hr>
 
 <small> <i> [1] Camporese et al. 2019 [10.1029/2019WR025726, fig. 6] </i> </small>
+
 
 
 

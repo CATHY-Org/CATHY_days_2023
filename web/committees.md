@@ -10,5 +10,4 @@ template: base.html
 
 <hr class="mb-5">
 
-# Markdown
-Here is a little bit of markdown
+
