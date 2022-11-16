@@ -32,6 +32,8 @@
         <div class="card" id="{{ person.github }}">
           {%- if person.github is defined %}
             <img class="card-img-top" src="https://github.com/{{ person.github }}.png" alt="{{ person.name }}'s profile picture">
+          {%- elif person.pic is defined %}
+            <img class="card-img-top" src="../images/{{ person.pic}}.jpg" style="max-width: 210px; height: auto; "alt="{{ person.name }}'s profile picture">
           {%- else %}
             <!--<img class="card-img-top" src="../images/avatar-placeholder.jpg" alt="{{ person.name }}'s profile picture">-->
             <img class="card-img-top" src="https://source.boringavatars.com/marble/120/{{ person.name }}?square" alt="{{ person.name }}'s profile picture">

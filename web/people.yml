@@ -25,6 +25,7 @@ current:
     google_scholar: https://scholar.google.com.au/citations?user=Fy8bJUAAAAAJ&hl=en
     researchgate: https://www.researchgate.net/profile/Matteo-Camporese
     website: 
+    pic: IMG_8010
     
   - name: Claudio Paniconi
     role: Organiser
@@ -34,6 +35,7 @@ current:
     google_scholar: https://scholar.google.ca/citations?user=hRpKFigAAAAJ&hl=en
     researchgate: https://www.researchgate.net/profile/Claudio-Paniconi
     website: https://inrs.ca/la-recherche/professeurs/claudio-paniconi/
+
 
   - name: Mario Putti
     role: Organiser

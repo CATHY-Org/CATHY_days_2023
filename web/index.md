@@ -118,10 +118,7 @@ img {
 
 
 <div class="callout">
-The seminar is supported by
-<p>
-<ul>
-  <li> Centro Internacional de Hidrologia Dino Tonini </li>
+The seminar is supported by **Centro di Idrologia Dino Tonini** </li>
 </ul>    
 </p>
 </div>
