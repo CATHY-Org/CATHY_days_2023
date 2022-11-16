@@ -94,11 +94,6 @@ The event will be held at the [CENTER FOR STUDIES ON ALPINE ENVIRONMENT](https:/
 
 
 
-## Contact
-
-<p class="lead">
-Interested in participating? Get in touch with a <a href="committees">committee member</a> directly.
-</p>
 
 
 <hr size="3" noshade> 
@@ -128,6 +123,17 @@ The seminar is supported by **Centro di Idrologia Dino Tonini** </li>
 <small> <i> [1] Camporese et al. 2019 [10.1029/2019WR025726, fig. 6] </i> </small>
 
 
+## Contact
+
+<p class="lead">
+Interested in participating? Get in touch with a committee member directly.
+</p>
+
+
+{%- import "macros.html" as macros %}
+{{ macros.make_people_list(page.people.current) }}
+
+<hr class="mb-5">
 
 
 
