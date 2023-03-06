@@ -66,12 +66,6 @@ Want to join? [Register now](https://docs.google.com/forms/d/e/1FAIpQLScyDlY_pI9
 
 
 
-
-
-
-
-
-
 <hr>
 
 ## Venue: San Vito di Cadore (IT)
@@ -82,7 +76,9 @@ The event will be held at the [CENTER FOR STUDIES ON ALPINE ENVIRONMENT](https:/
 </div>
 
 
-[How to arrive at the Centre for Studies in Alpine Environment](https://intra.tesaf.unipd.it/sanvito/doc/LPT.pdf)
+🚌 The easiest way to reach the workshop venue from Venice Airport is by taking the bus [cortina express 100](https://www.cortinaexpress.it/it/san-vito-di-cadore/). The bus stops at San Vito di Cadore-Centro, and from there, you can have a nice walk and enjoy the view to reach the conference centre. 
+
+Additional information can be found on the workshop [Centre for Studies in Alpine Environment](https://intra.tesaf.unipd.it/sanvito/doc/LPT.pdf)
 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10995.382777225355!2d12.2138519!3d46.4517544!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf6f600dc10482619!2sCentro%20Studi%20per%20l&#39;Ambiente%20Alpino%20-%20Universit%C3%A0%20Degli%20Studi%20Di%20Padova!5e0!3m2!1sfr!2ses!4v1668416547342!5m2!1sfr!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
