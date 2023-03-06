@@ -60,10 +60,11 @@ There is <span style="color:red;">no registration fee</span> for the workshop; h
 
 </div>
 
-Want to join? [Register now](https://docs.google.com/forms/d/e/1FAIpQLScyDlY_pI9nebjsEMidjBKBpsnzTPT81SnPWstx3w0kQHSFDg/viewform?embedded=true)!
+Want to join? [Register are closed](https://docs.google.com/forms/d/e/1FAIpQLScyDlY_pI9nebjsEMidjBKBpsnzTPT81SnPWstx3w0kQHSFDg/viewform?embedded=true)!
 
+<!-
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScyDlY_pI9nebjsEMidjBKBpsnzTPT81SnPWstx3w0kQHSFDg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
-
+->
 
 
 <hr>
