@@ -9,6 +9,8 @@ logo: images/Camporese_WRR_10.1029_2019WR025726.png
 menu:
   - [Home, index]  
   - [About, about]
+  - [Agenda, agenda] 
+  - [FAQ, FAQ]   
 ignore:
   - README.md
   - config-alternative.json
