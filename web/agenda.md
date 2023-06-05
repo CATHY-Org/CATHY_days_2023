@@ -103,7 +103,7 @@ template: base.html
     <td class="tg-qyua"><span style="font-weight:normal;font-style:italic">15:15</span></td>
     <td class="tg-qyua"><span style="font-weight:normal;font-style:italic">15:30 (+5')</span></td>
     <td class="tg-cqhf">Benjamin Mary</td>
-    <td class="tg-cqhf">pyCATHY: a python wrapper for Data Assimilation in CATHY</td>
+    <td class="tg-cqhf"><a target='_blank' href='https://github.com/CATHY-Org/CATHY_days_2023/blob/cc135c08e30fd976c48a0858ccd9636d513ad384/notebooks/Mary_CATHYdays_2023.ipynb'>pyCATHY: a python wrapper for Data Assimilation in CATHY</a></td>
   </tr>
   <tr>
     <td class="tg-qyua"><span style="font-weight:normal;font-style:italic">15:35</span></td>
