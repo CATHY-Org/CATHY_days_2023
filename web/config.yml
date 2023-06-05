@@ -10,6 +10,7 @@ menu:
   - [Home, index]  
   - [About, about]
   - [Agenda, agenda] 
+  - [<font color="blue"> Gallery </font>, gallery]  
   - [FAQ, FAQ]   
 ignore:
   - README.md
