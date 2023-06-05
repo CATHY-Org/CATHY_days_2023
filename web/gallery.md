@@ -72,10 +72,6 @@ Interested in participating? Get in touch with a committee member directly.
 </p>
 
 
-{%- import "macros.html" as macros %}
-{{ macros.make_people_list(page.people.current) }}
-
-<hr class="mb-5">
 
 
 
