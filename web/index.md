@@ -110,10 +110,17 @@ img {
 
 
 <div class="callout">
-The seminar is supported by <b>Centro di Idrologia Dino Tonini</b> </li>
+The seminar is supported by <b><a href="https://uia.org/s/or/en/1100053284">Centro di Idrologia Dino Tonini</a></li>
 </ul>    
 </p>
 </div>
+
+
+## Useful links
+
+<a href="https://github.com/CATHY-Org">Github CATHY group organisation</a>
+
+
 
 <hr>
 
@@ -125,6 +132,8 @@ The seminar is supported by <b>Centro di Idrologia Dino Tonini</b> </li>
 <p class="lead">
 Interested in participating? Get in touch with a committee member directly.
 </p>
+
+
 
 
 {%- import "macros.html" as macros %}
